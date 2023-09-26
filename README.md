@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm AKMAL ASSEGAF
+Lokasi : DKI Jakarta  
+Email : akmalassegaf5@gmail.com  
+Linkedln : www.linkedin.com/in/akmal-assegaf-5aa939284
+# About me
+Saya seorang calon programmer game yang sedang mengejar gelar sarjana di Universitas Bina Nusantara (BINUS). Saya berkomitmen untuk mengembangkan keterampilan.
+# My Project
+2D-poong_game : https://github.com/misterdot10/2D-poong_game  
+Tebak_gambar_game : https://github.com/misterdot10/Tebak_gambar  
 
 <!--
 **misterdot10/misterdot10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
