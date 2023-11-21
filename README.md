@@ -10,8 +10,8 @@ h3>
 <p align="center"> <a href="https://github.com/misterdot10"><img src="https://skillicons.dev/icons?i=unity,java,c,cs,python"> </a> </p>
 Lokasi : DKI Jakarta  
 Email : akmalassegaf5@gmail.com  
-Linkedln : www.linkedin.com/in/akmal-assegaf-5aa939284
-# About me
+Linkedln : www.linkedin.com/in/akmal-assegaf-5aa939284  
+# About me  
 Saya seorang calon programmer game yang sedang mengejar gelar sarjana di Universitas Bina Nusantara (BINUS). Saya berkomitmen untuk mengembangkan keterampilan.
 
 ## Highlighted Games 
