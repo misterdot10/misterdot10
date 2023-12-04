@@ -20,22 +20,22 @@ Saya seorang calon programmer game yang sedang mengejar gelar sarjana di Univers
   <thead>
     <tr>
       <th width="50%"><a href="https://akmal-assegaf.itch.io/game-poong">Poong </a></th>
-      <th width="50%"><a href="https://akmal-assegaf.itch.io/game-tebak-gambar">Tebak Gambar </a>
+      <th width="50%"><a href="https://akmal-assegaf.itch.io/harmony-heaven">Harmony Heaven </a>
 </th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><img src="https://github.com/misterdot10/misterdot10/blob/c726af3738b5c0f3918a359a596dc711dbe80ecb/poong.gif"/></td>
-      <td><img src="https://github.com/misterdot10/misterdot10/blob/af85fb973d12f6e5342e53d18ce65aebccde892e/tebakgambar.gif"/></td>
+      <td><img src="https://github.com/misterdot10/misterdot10/blob/c161fc6b6a6d67b89d530280419deabf51cc7bf3/Harmony_Heaven.gif"/></td>
     </tr>
     <tr>
-      <td valign="text-top">A tower-defense game about dragons trying to defend their home againts endless monster forces. Dragons vs Monsters is a strategic game where you don't only need to know about the ability of each units, but also the rules of the game.</td>
-      <td valign="text-top"">The game "Gama Tebak Gambar" is an exciting game that tests players' abilities to recognize images. In this game, you will be presented with a series of pictures, and your task is to quickly guess what is in the picture. The faster you answer, the quicker you win.<div></div></td>
+      <td valign="text-top">Welcome to Poong, a Ping-Pong game that offers an exciting experience battling NPCs. It's a deep dive into the world of table tennis, filled with challenges and fun, where you'll test your skills and strategies against intelligent NPC opponents.</td>
+      <td valign="text-top"">Welcome to Harmony_Heaven, a game that seamlessly blends elements of rhythm, combat, and fantasy into an extraordinary gaming experience. Harmony_Heaven is a dynamic fusion of rhythm and combat genres, allowing players to explore a fantasy world filled with challenges and formidable foes. This game offers a unique gaming experience by combining the thrill of real-time combat with the challenge of playing the right rhythm. Step into this world and prove that you are the best player capable of controlling the rhythm and defeating powerful adversaries. Prepare yourself for an exciting battle in Harmony_Heaven!.<div></div></td>
     </tr>
     <tr>
       <td><a href="https://akmal-assegaf.itch.io/game-poong">Poong">Itch Page</td>
-      <td><a href="https://akmal-assegaf.itch.io/game-tebak-gambar">Tebak Gambar">Itch Page</td>
+      <td><a href="https://akmal-assegaf.itch.io/harmony-heaven">Harmony_Heaven">Itch Page</td>
     </tr>
     <tr>
       <td></td>
