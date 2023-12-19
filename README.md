@@ -13,7 +13,7 @@ Lokasi : DKI Jakarta
 Email : akmalassegaf5@gmail.com  
 Linkedln : www.linkedin.com/in/akmal-assegaf-5aa939284  
 # About me  
-Saya seorang calon programmer game yang sedang mengejar gelar sarjana di Universitas Bina Nusantara (BINUS). Saya berkomitmen untuk mengembangkan keterampilan.
+Saya seorang programmer game yang sedang mengejar gelar sarjana di Universitas Bina Nusantara (BINUS) dan sudah mempunyai pengalaman 2 tahun melakukan coding. Saya berkomitmen untuk mengembangkan keterampilan.
 
 ## Highlighted Games 
 <table width="100%">
@@ -27,11 +27,19 @@ Saya seorang calon programmer game yang sedang mengejar gelar sarjana di Univers
   <tbody>
     <tr>
       <td><img src="https://github.com/misterdot10/misterdot10/blob/c726af3738b5c0f3918a359a596dc711dbe80ecb/poong.gif"/></td>
-      <td><img src="https://github.com/misterdot10/misterdot10/blob/c161fc6b6a6d67b89d530280419deabf51cc7bf3/Harmony_Heaven.gif"/></td>
+      <td><img src="https://github.com/misterdot10/misterdot10/blob/6509af0b0a3e20778147fa4e650a96338bc75e82/Harmony_Heaven.gif"/></td>
     </tr>
     <tr>
-      <td valign="text-top">Welcome to Poong, a Ping-Pong game that offers an exciting experience battling NPCs. It's a deep dive into the world of table tennis, filled with challenges and fun, where you'll test your skills and strategies against intelligent NPC opponents.</td>
-      <td valign="text-top"">Welcome to Harmony_Heaven, a game that seamlessly blends elements of rhythm, combat, and fantasy into an extraordinary gaming experience. Harmony_Heaven is a dynamic fusion of rhythm and combat genres, allowing players to explore a fantasy world filled with challenges and formidable foes. This game offers a unique gaming experience by combining the thrill of real-time combat with the challenge of playing the right rhythm. Step into this world and prove that you are the best player capable of controlling the rhythm and defeating powerful adversaries. Prepare yourself for an exciting battle in Harmony_Heaven!.<div></div></td>
+      <td valign="text-top">Welcome to Poong, a Ping-Pong game that offers an exciting experience battling NPCs. It's a deep dive into the world of table tennis, filled with challenges and fun, where you'll test your skills and strategies against intelligent NPC opponents.<br>Contribution :
+    <ul>
+      <li>Programmer</li>
+      <li>Creating mechanical logic for the game</li>
+    </ul></td>
+      <td valign="text-top">Welcome to Harmony_Heaven, a unique game that combines rhythm, combat, and fantasy for an extraordinary gaming experience. In this world, you'll explore challenges and face formidable foes with a dynamic blend of rhythm and real-time combat. Prove that you're the best player capable of mastering the rhythm and defeating powerful adversaries. Get ready for an exciting battle in Harmony_Heaven!.<br>Contribution :
+    <ul>
+      <li>Programmer</li>
+      <li>Creating mechanical logic for the game</li>
+    </ul><div></div></td>
     </tr>
     <tr>
       <td><a href="https://akmal-assegaf.itch.io/game-poong">Poong">Itch Page</td>
